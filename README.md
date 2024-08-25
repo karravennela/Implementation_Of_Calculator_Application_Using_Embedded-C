@@ -1,4 +1,4 @@
-# Implementation of Calcualtor Application Using UART in Embedded C:
+# Implementation of Calculator Application Using UART in Embedded C:
 # Introduction:
 - This project is implemented using hardware communication protocol i.e UART protocol.
 - Embedded C is used to implement this protocol
